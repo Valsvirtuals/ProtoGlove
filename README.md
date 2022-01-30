@@ -8,7 +8,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 ## What are the goals for this project:
  
 - provide a strong, reliable, versatile and universal system on which you can build and experiment your own idea  
-- siplyfy and standardise structural parts to allow you to focus on your idea  
+- siplify and standardise structural parts to allow you to focus on your idea  
 - allow for faster prototyping, and thus faster develmopment  
 - acelerate the propagation of new and potentialy better ideas in the comunity by not having to make a whole new glove every time a new desing comes out  
 - lower the barrier to entry  
@@ -27,7 +27,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 
 ## What's missing:
 
-- support for more controllers  
+- support for more controllers (quest 2, index, HP Reverb g2, vive trackers, tundra trackers, vive wands)  
 - interchanchable controller mount (glued as of right now)  
 - different size baseplate (for size 5-6 & 10-13)  
 - zip tie guides (for multiple size zip ties, with snap-fit module option or not)  
