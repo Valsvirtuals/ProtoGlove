@@ -52,7 +52,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 
 build instructions coming soon, if you need help contact me on my discord
 
-## desings that uses the ProtoGlove system
+## Desings that uses the ProtoGlove system
 - Val's OverFlow glove (coming soon)
 
 ## How YOU can help this porject!
