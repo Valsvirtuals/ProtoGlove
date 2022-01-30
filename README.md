@@ -1,4 +1,3 @@
-# ProtoGlove
 ![alt text](https://github.com/Valsvirtuals/ProtoGlove/blob/main/media/main.png?raw=true)
 
 ## What is ProtoGlove?
