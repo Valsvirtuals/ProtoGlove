@@ -49,6 +49,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
   - PLA (100 grams should be more than enough for 1 glove)  
   - superglue  
   - 25x2mm mild steel, flat head nails (for the harness latching points, indexing parts, and can be used as cheap axles for small mechanism)  
+  - 15mm wide nylon strap (for the harness)
 
 build instructions coming soon, if you need help contact me on my discord
 
