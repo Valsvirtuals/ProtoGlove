@@ -34,6 +34,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 - more tip module sizes and option for mounting LRAs  
 - a way to access the buttons on the ESP that are currently blocked by the ESP mount  
 - add support for more board like Arduino nano
+- add placeholder models for commonly used coponents (esp32, potetiometers, servos and more)
 
 ![alt text](https://github.com/Valsvirtuals/ProtoGlove/blob/main/media/parts.png?raw=true)
 
