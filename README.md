@@ -30,7 +30,6 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 - support for more controllers (quest 2, index, HP Reverb g2, vive trackers, tundra trackers, vive wands)  
 - interchanchable controller mount (glued as of right now)  
 - different size baseplate (for size 5-6 & 10-13)  
-- zip tie guides (for multiple size zip ties, with snap-fit module option or not)  
 - more tip module sizes and option for mounting LRAs  
 - a way to access the buttons on the ESP that are currently blocked by the ESP mount  
 - add support for more board like Arduino nano
