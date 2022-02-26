@@ -22,15 +22,16 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 - basic fingertip module  
 - "finger guides" with or without snap-fit rails, wire-pass-throught, hot glued or stitched  
 - "snap fit" rails for mounting modules booth on the baseplate and the "finger guides"  
-- base modules that you can remix to implement your own ideas  
+- base modules that you can remix to implement your own ideas
+- interchanchable and custumizsble controller/tracker mount    
+- support for EVERY controllers  
+- fingertip modules, with option for mounting LRAs
 
 
 ## What's missing:
 
-- support for more controllers (quest 2, index, HP Reverb g2, vive trackers, tundra trackers, vive wands)  
-- interchanchable controller mount (glued as of right now)  
 - different size baseplate (for size 5-6 & 10-13)  
-- more tip module sizes and option for mounting LRAs  
+- more tip module sizes 
 - a way to access the buttons on the ESP that are currently blocked by the ESP mount  
 - add support for more board like Arduino nano
 - add placeholder models for commonly used coponents (esp32, potetiometers, servos and more)
