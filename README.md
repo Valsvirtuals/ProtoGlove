@@ -19,13 +19,12 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 - baseplate (size 7 to 9, complient, rigid, balanced or not, with "thumb plate" or not)  
 - harness parts for 15mm nylon strap  
 - ESP32 mounts flat or vertical  
-- basic fingertip module  
+- basic fingertip module , with option for mounting LRAs  
 - "finger guides" with or without snap-fit rails, wire-pass-throught, hot glued or stitched  
 - "snap fit" rails for mounting modules booth on the baseplate and the "finger guides"  
 - base modules that you can remix to implement your own ideas
 - interchanchable and custumizsble controller/tracker mount    
 - support for EVERY controllers  
-- fingertip modules, with option for mounting LRAs
 
 
 ## What's missing:
