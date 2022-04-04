@@ -45,7 +45,7 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
   - (optional) heavy-duty side cutters, or a hack saw (for cutting the nails to length)
 
 -What materials you need:  
-  - Filament (PLA and ABS work best. 100 grams should be more than enough for 1 glove)  
+  - Filament (PLA and PETG work best. 100 grams should be more than enough for 1 glove)  
   - superglue  
   - 30x2mm mild steel flat head nails (for the harness latching points, universal controller mount, indexing parts, and can be used as cheap axles for small mechanism)  
   - 15mm wide nylon strap (for the harness and universal controller mount)
