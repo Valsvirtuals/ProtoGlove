@@ -50,7 +50,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
   - 30x2mm mild steel, flat head nails (for the harness latching points, universal controller mount, indexing parts, and can be used as cheap axles for small mechanism)  
   - 15mm wide nylon strap (for the harness and universal controller mount)
 
-Videos:
+## Videos:  
 [PROTOGLOVE: Stronger Foundations For Better Vr Gloves](https://www.youtube.com/watch?v=wg-dA6JFofU)
 <!-- [PROTOGLOVE: Choosing The Right Parts]() -->
 [PROTOGLOVE: Assembling The Glove](https://www.youtube.com/watch?v=5-vP1U-F1cY)
