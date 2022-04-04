@@ -2,52 +2,52 @@
 
 ## What is ProtoGlove?
 
-ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyping platform** for DIY hand Motion capture & Haptics for Virtual reality
+ProtoGlove is a simple and efficient, open source, 3D printable **hardware prototyping platform** for DIY Hand Motion Capture & Haptics for Virtual Reality.
 
 
 ## What are the goals for this project:
  
-- provide a strong, reliable, versatile and universal system on which you can build and experiment your own idea  
-- siplify and standardise structural parts to allow you to focus on your idea  
-- allow for faster prototyping, and thus faster develmopment  
-- acelerate the propagation of new and potentialy better ideas in the comunity by not having to make a whole new glove every time a new desing comes out  
-- lower the barrier to entry  
+- Provide a strong, reliable, versatile and universal system on which you can build and experiment with your own ideas 
+- Simplify and standardize structural components to allow you to focus on your idea  
+- Allow for faster prototyping, and thus faster development  
+- Accelerate the propagation of new and potentially better ideas in the community by not having to make a whole new glove every time a new design comes out
+- Lower the barrier to entry
 
 
 ## What we have:
 
-- baseplate (size 5 to 13, complient, rigid, balanced or not, with "thumb plate" or not)  
-- harness parts for 15mm nylon strap  
+- Baseplate (size 5 to 13, compliant, rigid, balanced or not, with "thumb plate" or not)  
+- Harness parts for 15mm nylon strap  
 - ESP32 mounts flat or vertical  
-- basic fingertip module , with option for mounting LRAs  
-- "finger guides" with or without snap-fit rails, wire-pass-throught, hot glued or stitched  
-- "snap fit" rails for mounting modules booth on the baseplate and the "finger guides"  
-- blank modules that you can remix to implement your own ideas
-- interchanchable and custumizsble controller/tracker mount    
-- support for EVERY controllers  
+- Basic fingertip module, with option for mounting LRAs  
+- "Finger guides" with or without snap-fit rails, wire-pass-through, either hot glued or stitched  
+- "Snap-fit" rails for mounting modules both on the baseplate and the "finger guides"  
+- Blank modules that you can remix to implement your own ideas
+- Interchangeable and customizable controller/tracker mount    
+- Support for ALL controller styles
 
 
-## What's missing:
+## What's Missing:
   
-- more tip module sizes 
-- a way to access the buttons on the ESP that are currently blocked by the ESP mount  
-- add support for more board like Arduino nano
-- add placeholder models for commonly used coponents (esp32, potetiometers, servos and more)
+- More tip module sizes 
+- A way to access the buttons on the ESP that are currently blocked by the ESP mount  
+- Add support for more micro controllers like Arduino nano
+- Add placeholder modules for commonly used components (esp32, potentiometers, servos and more)
 
 ![alt text](https://github.com/Valsvirtuals/ProtoGlove/blob/main/media/parts.png?raw=true)
 
-## How you can build your own ProtoGlove?
+## How can you build your own ProtoGlove?
 
--what tools you need:  
-  - 3Dprinter  
-  - 2mm or 5/64" drill bit (for reaming holes, you can use a similarly sized screw driver if you don't have one)  
-  - 120/180 grit sand paper (for flatening/scratching glued surfaces)
-  - (optional) heavy-duty side cutters, or a hack saw (for cutting the nails to lenght)
+- What tools you need:  
+  - A 3D printer  
+  - 2mm or 5/64" drill bit (for reaming holes, you can use a similarly sized screwdriver if you don't have one)  
+  - 120/180 grit sandpaper (for flattening/scratching glued surfaces)
+  - (optional) heavy-duty side cutters, or a hack saw (for cutting the nails to length)
 
--what materials you need:  
-  - PLA (100 grams should be more than enough for 1 glove)  
+-What materials you need:  
+  - Filament (PLA and ABS work best. 100 grams should be more than enough for 1 glove)  
   - superglue  
-  - 30x2mm mild steel, flat head nails (for the harness latching points, universal controller mount, indexing parts, and can be used as cheap axles for small mechanism)  
+  - 30x2mm mild steel flat head nails (for the harness latching points, universal controller mount, indexing parts, and can be used as cheap axles for small mechanism)  
   - 15mm wide nylon strap (for the harness and universal controller mount)
 
 ## Videos:  
@@ -57,15 +57,15 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 <!-- [PROTOGLOVE: Universal Controller Mount]() -->
 <!-- [PROTOGLOVE: Indexer]() -->
 
-## Desings that uses the ProtoGlove system
+## Designs that uses the ProtoGlove system
 - Val's Indexer glove (coming very soon)
 
-## How YOU can help this porject!
+## How YOU can help this project!
 
 - you can make/provide models (see in the "what's missing list")  
-- you can join my discord to give suggestions and ideas and participate in the comunity  
-- you can help me right documentaion (like this unfinished readme uh..)
-- you can help financialy by suppoting me on patreon  
+- you can join my discord to give suggestions and ideas and participate in the community  
+- you can help me write documentation (like this unfinished readme uh..)
+- you can help financially by supporting me on patreon  
 
 
 ## Links
