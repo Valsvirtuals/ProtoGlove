@@ -16,7 +16,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 
 ## What we have:
 
-- baseplate (size 7 to 9, complient, rigid, balanced or not, with "thumb plate" or not)  
+- baseplate (size 5 to 13, complient, rigid, balanced or not, with "thumb plate" or not)  
 - harness parts for 15mm nylon strap  
 - ESP32 mounts flat or vertical  
 - basic fingertip module , with option for mounting LRAs  
@@ -28,8 +28,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 
 
 ## What's missing:
-
-- different size baseplate (for size 5-6 & 10-13)  
+  
 - more tip module sizes 
 - a way to access the buttons on the ESP that are currently blocked by the ESP mount  
 - add support for more board like Arduino nano
@@ -54,7 +53,7 @@ ProtoGlove a simple and efficient, open source, 3D printable **hardware prototyp
 build instructions coming soon, if you need help contact me on my discord
 
 ## Desings that uses the ProtoGlove system
-- Val's OverFlow glove (coming soon)
+- Val's Indexer glove (coming very soon)
 
 ## How YOU can help this porject!
 
