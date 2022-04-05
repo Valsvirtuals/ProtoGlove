@@ -44,11 +44,14 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
   - 120/180 grit sandpaper (for flattening/scratching glued surfaces)
   - (optional) heavy-duty side cutters, or a hack saw (for cutting the nails to length)
 
--What materials you need:  
+- What materials you need:  
   - Filament (PLA and PETG work best. 100 grams should be more than enough for 1 glove)  
   - superglue  
   - 30x2mm mild steel flat head nails (for the harness latching points, universal controller mount, indexing parts, and can be used as cheap axles for small mechanism)  
   - 15mm wide nylon strap (for the harness and universal controller mount)
+
+- Assembly:  
+  - Refere to the *"PROTOGLOVE: Assembling The Glove"* link down below
 
 ## Videos:  
 [PROTOGLOVE: Stronger Foundations For Better Vr Gloves](https://www.youtube.com/watch?v=wg-dA6JFofU)
