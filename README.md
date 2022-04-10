@@ -54,10 +54,11 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
   - Refere to the *"PROTOGLOVE: Assembling The Glove"* link down below
 
 ## Videos:  
-[PROTOGLOVE: Stronger Foundations For Better Vr Gloves](https://www.youtube.com/watch?v=wg-dA6JFofU)
-<!-- [PROTOGLOVE: Choosing The Right Parts]() -->
-[PROTOGLOVE: Assembling The Glove](https://www.youtube.com/watch?v=5-vP1U-F1cY)
-<!-- [PROTOGLOVE: Universal Controller Mount]() -->
+[PROTOGLOVE: Stronger Foundations For Better Vr Gloves](https://www.youtube.com/watch?v=wg-dA6JFofU)  
+[PROTOGLOVE: Choosing The Right Parts](https://www.youtube.com/watch?v=TYjfMrjwEDA)  
+[PROTOGLOVE: 3D Printing Settings And Preset](https://www.youtube.com/watch?v=h2BsSOGpNHw)  
+[PROTOGLOVE: Assembling The Glove](https://www.youtube.com/watch?v=5-vP1U-F1cY)  
+[PROTOGLOVE: Universal Controller Mount](https://www.youtube.com/watch?v=tToL9qJWF3A)  
 <!-- [PROTOGLOVE: Indexer]() -->
 
 ## Designs that uses the ProtoGlove system
