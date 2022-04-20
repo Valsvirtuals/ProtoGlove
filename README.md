@@ -63,6 +63,7 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
 
 ## Designs that uses the ProtoGlove system
 - Val's Indexer glove (coming very soon)
+- CameraGloves [Repo](https://github.com/minystreem/CameraGloves)  
 
 ## How YOU can help this project!
 
