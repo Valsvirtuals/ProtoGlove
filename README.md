@@ -62,7 +62,7 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
 <!-- [PROTOGLOVE: Indexer]() -->
 
 ## Designs that uses the ProtoGlove system
-- Val's Indexer glove (coming very soon)
+- [Val's Indexer glove](https://github.com/Valsvirtuals/Indexer)  
 
 ## How YOU can help this project!
 
