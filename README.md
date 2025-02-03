@@ -74,6 +74,4 @@ ProtoGlove is a simple and efficient, open source, 3D printable **hardware proto
 
 ## Links
 
-[Discord](https://discord.gg/g6XpeCnUfG)  
-[Patreon](https://www.patreon.com/valsvirtuals)  
 [YouTube](https://www.youtube.com/c/WalooW)
